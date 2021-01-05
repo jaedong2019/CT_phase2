@@ -1,3 +1,3 @@
 # CT_phase2
 phase2.py : code python for specimen with two different phase (different direction of material axis) 
-file_0.3.h5 : mesh file, create by gmsh and convert by dolfin-convert 
+file_0.3.h5 : mesh file, create by gmsh and convert by dolfin-convert , mesh size 0.01, notch 0.3
